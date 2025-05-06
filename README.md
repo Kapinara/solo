@@ -1,0 +1,2 @@
+# solo
+My soproject00
